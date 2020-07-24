@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋, My name is Kushagra Gupta
+## I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Data Scientist!
+## I love coding in Python, and here are few of my projects, feel free to use and modify them! 😄 
 
-<!--
-**KG-1510/KG-1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### 🔭 I’m currently working on making Computer Vision Implementations for post Covid world
+ ### 🌱 I’m currently learning skills for Machine Learning
+ ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kg1510/) 
+ ### Having a command over:
+ * C
+ * C++
+ * Java
+ * Python
+ * OpenCV
+ * SQL
+ * NetBeans
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
