@@ -10,6 +10,7 @@
 </table>
 
 🔭 I’m currently working on making Computer Vision Implementations for post Covid world
+
 🌱 I’m currently learning skills for Machine Learning
  
  
