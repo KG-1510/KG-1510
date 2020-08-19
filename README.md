@@ -21,3 +21,5 @@
  * SQL
  * NetBeans
 
+[![Linkedin Badge](https://img.shields.io/badge/-KG-1510-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kg1510/)](https://www.linkedin.com/in/kg1510/)
+[![MAIL Badge](https://img.shields.io/badge/-guptakushagra15.10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guptakushagra15.10@gmail.com)](mailto:guptakushagra15.10@gmail.com)
