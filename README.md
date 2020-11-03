@@ -27,7 +27,6 @@
  * <img align="left" alt="SQL" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/mysql-12-556000.png" /> SQL
  * <img align="left" alt="NetBeans" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/netbeans-458155.png" /> NetBeans
  * <img align="left" alt="Git" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/social-226-96741.png" /> Git
- https://cdn.iconscout.com/icon/free/png-64/html5-2038876-1720089.png
 
 
 **Feel Free to connect!**
