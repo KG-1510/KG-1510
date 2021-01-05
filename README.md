@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">, My name is Kushagra Gupta
-**I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Data Scientist!**
-**I love coding in Python, and here are few of my projects, feel free to use and modify them! 😄**
+**I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer**
+**I love coding in Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄**
 
 <table>
   <tr>
@@ -9,9 +9,9 @@
   </tr>
 </table>
 
-🔭 I’m currently working on making Computer Vision Implementations for post Covid world
+🔭 I’m currently working on making web apps for varied usage
 
-🌱 I’m currently learning skills for Machine Learning
+🌱 I’m currently learning skills for MERN Stack Web Development 
  
  
  #### Stats:
