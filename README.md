@@ -15,7 +15,7 @@
  
  
  #### Stats:
- ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KG-1510&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KG-1510&layout=compact&theme=dark)](https://github.com/KG-1510/KG-1510)
  
  #### Skills:
  * <img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" /> C 
