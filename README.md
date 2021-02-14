@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> My name is Kushagra Gupta
 <hr>
-**I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer**
-**I love coding in Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄**
+I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer
+I love coding in Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄
 <hr>
 <table>
   <tr>
