@@ -1,5 +1,7 @@
-# Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">, My name is Kushagra Gupta
+# Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> My name is Kushagra Gupta
+<hr>
 **I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer**
+<br>
 **I love coding in Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄**
 
 <table>
@@ -8,14 +10,17 @@
     <td><img src="https://profile-counter.glitch.me/KG-1510/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
+<hr>
 
 🔭 I’m currently working on making web apps for varied usage
 
 🌱 I’m currently learning skills for MERN Stack Web Development 
+<hr>
  
  
  #### Stats:
  ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KG-1510&layout=compact&theme=dark)](https://github.com/KG-1510/KG-1510)
+ <hr>
  
  #### Skills:
 <div align="center">
@@ -35,7 +40,7 @@
   <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/jquery-7-1175152.png" alt="JQuery" height="25" />
   <img style="margin: 15px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="Tailwind" height="25" />
 </div>
-
+<hr>
 
 **Feel Free to connect!**
 
