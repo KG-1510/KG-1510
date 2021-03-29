@@ -23,21 +23,21 @@ I love coding in Python, and I love to learn new tech. Here are few of my projec
  
  #### Skills:
 <div align="center">
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="HTML" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="CSS" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="Javascript" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" alt="Bootstrap" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="React.js" height="25" />
-  <img style="margin: 15px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" alt="Next.js" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="Typescript" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png" alt="MongoDB" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png" alt="Express" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="Node.js" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="C" height="25" />
-  <img style="margin: 15px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" alt="C++" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" alt="Python" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/jquery-7-1175152.png" alt="JQuery" height="25" />
-  <img style="margin: 15px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="Tailwind" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="HTML" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="CSS" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="Javascript" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" alt="Bootstrap" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="React.js" height="25" />
+  <img style="margin: 25px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" alt="Next.js" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="Typescript" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png" alt="MongoDB" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png" alt="Express" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="Node.js" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="C" height="25" />
+  <img style="margin: 25px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" alt="C++" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" alt="Python" height="25" />
+  <img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-64/jquery-7-1175152.png" alt="JQuery" height="25" />
+  <img style="margin: 25px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="Tailwind" height="25" />
 </div>
 <hr>
 
