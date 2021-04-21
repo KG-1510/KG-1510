@@ -1,14 +1,16 @@
-# Hi there <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px"> My name is Kushagra Gupta
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kushagra</h1>
+<h3 align="center">A passionate developer from India <table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/KG-1510/count.svg" alt="vistor count" height="25" /></td>
+  </tr>
+</table></h3>
+
 <hr>
 I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer
 I love coding in Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄
 <hr>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/KG-1510/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
+
 <hr>
 
 🔭 I’m currently working on making beautiful web apps
