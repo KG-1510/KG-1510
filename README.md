@@ -2,25 +2,17 @@
 <h3 align="center">A passionate developer from Bangalore, India</h3>
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
 
-<hr>
-
 <h4 align="center">
   I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer. I love coding in     Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄 
 </h4>
 
-<hr>
-
 <h2 align="center">Stats: </h2>
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark)    
-</p>
-![](https://activity-graph.herokuapp.com/graph?username=KG-1510&theme=github)
 <p align="center"> 
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="KG-1510" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=KG-1510&theme=github" alt="Contribution graph" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark" alt="Stats" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" />
 </p>
 
-<hr>
- 
 <h2 align="center">Skills: </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,8 +40,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-
-<hr>
 
 <h2 align="center">Feel Free to Connect! </h2>
 <p align="center">
