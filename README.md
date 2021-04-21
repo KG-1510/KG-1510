@@ -19,7 +19,6 @@ I love coding in Python, and I love to learn new tech. Here are few of my projec
  
  #### Stats:
  ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KG-1510&layout=compact&theme=dark)](https://github.com/KG-1510/KG-1510)
- <hr>
 ![](https://activity-graph.herokuapp.com/graph?username=KG-1510&theme=github)
 <p align="center"> 
 <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="KG-1510" />
