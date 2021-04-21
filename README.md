@@ -1,53 +1,61 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kushagra</h1>
-<h3 align="center">A passionate developer from India <table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/KG-1510/count.svg" alt="vistor count" height="25" /></td>
-  </tr>
-</table></h3>
-
-<hr>
-I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer
-I love coding in Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄
-<hr>
+<h3 align="center">A passionate developer from Bangalore, India</h3>
+<p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
 
 <hr>
 
-🔭 I’m currently working on making beautiful web apps
+<h4 align="center">
+  I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack Web Developer. I love coding in     Python, and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄 
+</h4>
 
-🌱 I’m currently learning skills for MERN Stack Web Development 
 <hr>
- 
- 
- #### Stats:
- ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KG-1510&layout=compact&theme=dark)](https://github.com/KG-1510/KG-1510)
+
+<h2 align="center">Stats: </h2>
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark)    
+</p>
 ![](https://activity-graph.herokuapp.com/graph?username=KG-1510&theme=github)
 <p align="center"> 
-<img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="KG-1510" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="KG-1510" />
 </p>
+
+<hr>
  
- #### Skills:
-<div align="center">
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="HTML" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="CSS" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="Javascript" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" alt="Bootstrap" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="React.js" height="25" />
-  <img style="margin: 15px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" alt="Next.js" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" alt="Typescript" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png" alt="MongoDB" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png" alt="Express" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="Node.js" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="C" height="25" />
-  <img style="margin: 15px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" alt="C++" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" alt="Python" height="25" />
-  <img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-64/jquery-7-1175152.png" alt="JQuery" height="25" />
-  <img style="margin: 15px" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="Tailwind" height="25" />
-</div>
+<h2 align="center">Skills: </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
 <hr>
 
-**Feel Free to connect!**
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kg1510/)](https://www.linkedin.com/in/kg1510/)
-[![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guptakushagra15.10@gmail.com)](mailto:guptakushagra15.10@gmail.com)
+<h2 align="center">Feel Free to Connect! </h2>
+<p align="center">
+  <a href="https://linkedin.com/in/kg1510"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/aye_that_guitar_guy"><img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:guptakushagra15.10@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://youtube.com/kguitar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
