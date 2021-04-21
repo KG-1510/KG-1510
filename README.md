@@ -43,16 +43,16 @@
 
 <h2 align="center">Feel Free to Connect! </h2>
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/kg1510">
+  <a href="https://linkedin.com/in/kg1510">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a target="_blank" href="https://instagram.com/aye_that_guitar_guy">
+  <a href="https://instagram.com/aye_that_guitar_guy">
     <img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a target="_blank" href="mailto:guptakushagra15.10@gmail.com">
+  <a href="mailto:guptakushagra15.10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a target="_blank" href="https://youtube.com/kguitar">
+  <a href="https://youtube.com/kguitar">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
