@@ -9,10 +9,9 @@
 <h2 align="center">Stats: </h2>
 <p align="center"> 
   <img src="https://activity-graph.herokuapp.com/graph?username=KG-1510&theme=github" alt="Contribution graph" />
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark" alt="Stats" />
+  <img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" />
 </p>
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark" alt="Stats" />
-  <img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" />
-
 
 <h2 align="center">Skills: </h2>
 <p align="center">
