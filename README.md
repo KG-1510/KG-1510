@@ -9,8 +9,8 @@
 <h2 align="center">Stats: </h2>
 <p align="center"> 
   <img src="https://activity-graph.herokuapp.com/graph?username=KG-1510&theme=github" alt="Contribution graph" />
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark" alt="Stats" />
-  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" />
+  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=KG-1510&show_icons=true&theme=dark" alt="Stats" />
+  <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" />
 </p>
 
 <h2 align="center">Skills: </h2>
@@ -43,9 +43,17 @@
 
 <h2 align="center">Feel Free to Connect! </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/kg1510"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/aye_that_guitar_guy"><img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:guptakushagra15.10@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://youtube.com/kguitar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a target="_blank" href="https://linkedin.com/in/kg1510">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a target="_blank" href="https://instagram.com/aye_that_guitar_guy">
+    <img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:guptakushagra15.10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a target="_blank" href="https://youtube.com/kguitar">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
