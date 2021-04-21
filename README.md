@@ -13,7 +13,7 @@
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" />
 </p>
 
-<h2 align="center">Skills: </h2>
+<h2 align="center">Skills and Technologies: </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
