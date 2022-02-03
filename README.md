@@ -3,7 +3,7 @@
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
 
 <h4 align="center">
-  I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a pre-final year student and currently building skills to become a Full Stack Web Developer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
+ I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a pre-final year student and currently building skills to become a Full Stack Web Developer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
 </h4>
 
 <h2 align="center">Stats: </h2>
