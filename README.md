@@ -3,7 +3,7 @@
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
 
 <h4 align="center">
- I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a pre-final year student and currently building skills to become a Full Stack Web Developer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
+I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a final year student and currently building skills to become a Full Stack Web Developer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
 </h4>
 
 <h2 align="center">Stats: </h2>
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
@@ -33,6 +34,7 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
