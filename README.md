@@ -3,7 +3,7 @@
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
 
 <h4 align="center">
-I am currently working at Bajaj Finserv as a Software Developer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
+I am currently working at Atlan as a Software Engineer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
 </h4>
 
 <h2 align="center">Stats: </h2>
