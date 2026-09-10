@@ -1,64 +1,18 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm Kushagra</h1>
-<h3 align="center">A passionate developer from Bangalore, India</h3>
-<p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm Kushagra</h1> <h3 align="center">Software Engineer 2 @ Atlan · AI-native full-stack & frontend engineer · Bengaluru, India</h3> <p align="center"> <a href="https://kg-1510.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-kg--1510.github.io-4ade80?style=for-the-badge&logo=googlechrome&logoColor=black" /></a> <a href="https://www.linkedin.com/in/kg1510"><img src="https://img.shields.io/badge/LinkedIn-kg1510-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:guptakushagra15.10@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=KG-1510&style=for-the-badge&color=4ade80" alt="Profile views" /> </p>
+I turn ideas into shipped, production web products in hours instead of weeks. The trick isn't writing more code. It's building the systems that let AI do the heavy lifting, and getting them right.
 
-<h4 align="center">
-I am currently working at Atlan as a Software Engineer. I love coding in Python, Java, Javascript and Typescript, and I love to learn new tech! Here are all of my projects, feel free to use and modify them! 😄 
-</h4>
+I'm an AI-native software engineer with 3+ years building frontend and full-stack web experiences. A lot of my work these days is teaching AI how my team designs, codes, and ships, then letting it run. At Atlan I own the engineering behind atlan.com: I built an AI-native CMS that took campaign go-live from 4 days to under 5 minutes across 500+ pages, wrote our first Claude Code orchestrator skill that builds landing pages with no engineer in the loop, and led the team's move from Cursor to Claude Code, cutting LLM token usage by around 10x along the way.
 
-<h2 align="center">Stats: </h2>
-<p align="center"> 
-  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=KG-1510&theme=dark" alt="Stats" />
-</p>
+Before Atlan I shipped customer-facing features at Bajaj Finserv in a regulated fintech setup (50% faster page loads, 20+ smoother user journeys) and was named Intern of the Year out of 277 interns. Outside work I built and launched strideclub.in solo on Next.js and Supabase. It's my run club's home on the web: 2,000+ visitors a month, with Razorpay ticketing live.
 
-<h2 align="center">Skills and Technologies: </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+Right now
 
-<h2 align="center">Feel Free to Connect! </h2>
-<p align="center">
-  <a href="https://linkedin.com/in/kg1510">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/aye_that_guitar_guy">
-    <img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:guptakushagra15.10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://youtube.com/kguitar">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+🤖 Taking AI agents from prototype to production with Claude Code, MCP servers, and n8n
+🧩 Building reusable AI building blocks (skills, CLAUDE.md, Slack-to-Cursor and Jira-to-cloud-agent pipelines) so non-engineers can ship too
+🐍 Going deeper into Python agent frameworks: LangChain and LangGraph, RAG pipelines
+🏃 Growing Stride Run Club's web app into a full ticketing platform
+🎸 Fingerstyle guitar when the laptop is closed (Trinity College London, Plectrum Guitar Level 3)
+Open to frontend, full-stack, AI-frontend, and forward-deployed roles, remote or in Bengaluru, where being AI-native is the default and not an afterthought.
 
+<h2 align="center">Skills and technologies</h2> <h4 align="center">Languages</h4> <p align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p> <h4 align="center">Frontend</h4> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Solid.js-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" /> </p> <h4 align="center">Backend and data</h4> <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /> </p> <h4 align="center">AI tooling</h4> <p align="center"> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_DBs-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" /> </p> <h4 align="center">Platforms and tools</h4> <p align="center"> <img src="https://img.shields.io/badge/Adobe_Experience_Manager-FF0000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> </p>
+<h2 align="center">Feel free to connect</h2> <p align="center"> <a href="https://kg-1510.github.io/Portfolio-Website/"> <img src="https://img.shields.io/badge/Portfolio-4ade80?style=for-the-badge&logo=googlechrome&logoColor=black" /> </a> <a href="https://linkedin.com/in/kg1510"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:guptakushagra15.10@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://youtube.com/kguitar"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://instagram.com/aye_that_guitar_guy"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
